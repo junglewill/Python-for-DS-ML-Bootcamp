@@ -6,3 +6,4 @@ Including:
 - pandas and pandas.plot
 - matplotlib
 - seaborn
+- plotly and cufflinks
