@@ -1,5 +1,5 @@
 # Python for DS ML Bootcamp
-Exercises from taking Udemy online course - Python for Data Science and Machine Learning Bootcamp
+Exercises from taking Udemy online course - Python for Data Science and Machine Learning Bootcamp. The notes cover what I learnt from the online courses.
 
 Including:
 - numpy
@@ -8,5 +8,4 @@ Including:
 - seaborn
 - plotly and cufflinks
 - machine learning algorithms:
-- 1. linear regression
-- 2. KNN
+
