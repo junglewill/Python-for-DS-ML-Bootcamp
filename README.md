@@ -7,3 +7,6 @@ Including:
 - matplotlib
 - seaborn
 - plotly and cufflinks
+- machine learning algorithms:
+- 1. linear regression
+- 2. KNN
