@@ -8,4 +8,8 @@ Including:
 - seaborn
 - plotly and cufflinks
 - machine learning algorithms:
-
+  1. linear regression
+  2. logistic regression
+  3. k-nearest-neighbor (knn)
+  4. decision trees & random forests
+- deep learning algorithms:
