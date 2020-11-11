@@ -2,14 +2,17 @@
 Exercises from taking Udemy online course - Python for Data Science and Machine Learning Bootcamp. The notes cover what I learnt from the online courses.
 
 Including:
-- numpy
+- numpy 
 - pandas and pandas.plot
 - matplotlib
 - seaborn
 - plotly and cufflinks
+- two data analytics projects
 - machine learning algorithms:
   1. linear regression
   2. logistic regression
   3. k-nearest-neighbor (knn)
   4. decision trees & random forests
 - deep learning algorithms:
+  1. natural language processing
+  2. neural net and deep learning
