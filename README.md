@@ -7,7 +7,7 @@ Including:
 - matplotlib
 - seaborn
 - plotly and cufflinks
-- two data analytics projects
+- two data analytics projects (911 data, 6 banks stock price data)
 - machine learning algorithms:
   1. linear regression
   2. logistic regression
