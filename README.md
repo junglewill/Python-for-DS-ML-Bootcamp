@@ -14,7 +14,8 @@ Including:
     2. Logistic Regression (from linear_model family)
     3. K-Nearest-Neighbor (from knn family)
     4. Decision Trees (from tree family)
-    5. Random Forests & Grid Search (from emsemble and model selection family)
+    5. Random Forests (from emsemble family)
+    6. Supported Vector Machine (svc) & Grid Search (from sum and model selection family)
   * Unsupervised
     1. K-means
     2.
