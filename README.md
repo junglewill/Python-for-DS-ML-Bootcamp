@@ -15,10 +15,10 @@ Including:
     3. K-Nearest-Neighbor (from knn family), knn is a great way to deal with anonmous data columns, you can standardize before you approach the data, using StandardScaler.fit() , .transform (from preprocessing family)
     4. Decision Trees (from tree family)
     5. Random Forests (from emsemble family)
-    6. Supported Vector Machine (svc) & Grid Search (from sum and model selection family)
+    6. Supported Vector Machine (svc) & GridSearchCV to .fit() and .predict(), it can help you to choose the best parameters (from sum and model selection family)
   * Unsupervised
     1. K-means
     2.
-  * Natural Language pPocessing
+  * Natural Language Pocessing
 - Deep Learning Algorithms:
   1. neural net and deep learning
