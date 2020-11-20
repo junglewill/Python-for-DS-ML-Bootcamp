@@ -17,7 +17,8 @@ Including:
     5. Random Forests (from emsemble family)
     6. Supported Vector Machine (svc) & GridSearchCV to .fit() and .predict(), it can help you to choose the best parameters (from sum and model selection family)
   * Unsupervised
-    1. K-means
+    1. K-means and make_blobs (from cluster and datasets family), make_blobs can create data as the following illustration:
+    data = make_blobs(n_samples=200, n_features=2, centers=4, cluster_std=1.8,random_state=101)
     2.
   * Natural Language Pocessing
 - Deep Learning Algorithms:
