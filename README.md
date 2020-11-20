@@ -19,7 +19,7 @@ Including:
   * Unsupervised
     1. K-means and make_blobs (from cluster and datasets family), make_blobs can create data as the following illustration:
     data = make_blobs(n_samples=200, n_features=2, centers=4, cluster_std=1.8,random_state=101)
-    2.
+    2. Principal Component Analysis (from decomposition family), this is for you to find the first and second most influential principal component in your dataset, which is a collection of several variables
   * Natural Language Pocessing
 - Deep Learning Algorithms:
   1. neural net and deep learning
