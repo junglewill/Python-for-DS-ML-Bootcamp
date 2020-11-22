@@ -23,4 +23,6 @@ Including:
     3. Recommendation Systems using correlation: Content-based vs. Collaborative Filtering (Memory-Based Collaborative Filtering and Model-Based Collaborative filtering)
   * Natural Language Pocessing
 - Deep Learning Algorithms:
-  1. neural net and deep learning
+  1. tensorflow
+  2. neural net and deep learning
+- Big Data and Spark
