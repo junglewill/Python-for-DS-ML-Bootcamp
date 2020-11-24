@@ -10,8 +10,8 @@ Including:
 - Two data analytics projects (911 data, 6 banks stock price data)
 - Machine Learning Algorithms:
   * Supervised
-    1. Linear Regression (from linear_model family)
-    2. Logistic Regression (from linear_model family)
+    1. Linear Regression (from linear_model family) and the threshold calculation
+    2. Logistic Regression (from linear_model family) and the threshold calculation
     3. K-Nearest-Neighbor (from knn family), knn is a great way to deal with anonmous data columns, you can standardize before you approach the data, using StandardScaler.fit() , .transform (from preprocessing family)
     4. Decision Trees (from tree family)
     5. Random Forests (from emsemble family)
