@@ -27,3 +27,5 @@ Including:
   2. neural network
   3. deep learning
 - Big Data and Spark
+  1. AWS account setup
+  2. RDD transformation
