@@ -22,6 +22,11 @@ Including:
     2. Principal Component Analysis (from decomposition family), using in an unsupervised method, this is for you to find the first and second most influential principal component in your dataset, which is a collection of several variables
     3. Recommendation Systems using correlation: Content-based vs. Collaborative Filtering (Memory-Based Collaborative Filtering and Model-Based Collaborative filtering)
   * Natural Language Pocessing - import nltk (the library to process text mining problems)
+    1. import string to remove punctuation; from nltk.corpus import stopwords to use stopwords.words('english') to eliminate the english stopwords.
+    2. from sklearn.feature_extraction.text import CountVectorizer, this is to calculate the words of bag, simply use fit and transform to the data. .nnz is to find non zero values, and .shape is to know the words and how many sentences you have
+    3. from sklearn.feature_extraction.text import TfidfVectorizer, this is to calculate the tf-idf value, also fit and transform the data. .volcabulary_ is to see a specific word's tf-idf value
+    4. from sklearn.naive_bayes import MultinomialNB as the model. simply fit and predict. Noted that there're plenty other models you can choose from
+    5. from sklearn.pipeline import Pipeline, this can collect all the previous steps into a list of tuples solution bags. A great way to summarize the methods you used. 
 - Deep Learning Algorithms:
   1. tensorflow (keras) 
 - Big Data and Spark
