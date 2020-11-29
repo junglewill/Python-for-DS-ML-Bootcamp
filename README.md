@@ -31,8 +31,9 @@ Including:
   1. Perceptron Model to neural networks: if a model is with 2 or more hidden layers, it's called deep neural networks
   2. Activation functions (Sigmoid, tanh, Rectified Linear Unit, ReLU)
   3. Multi-Class classification considerations: One Hot Encoding, Sigmoid for non-exclusive classification, which means a data could be labelled as multiple labels; Softmax function for mutual exclusive classification
-  4. Cost Functions
-  5. Gradient Descent
+  4. Cost Functions & Gradient Descent: many cost function to choose from, you want to find the lowest cost point for all possible values, usually adaptive gradient descent (adam) would be a good optimizer or that
+  5. Backpropagation: find the percentage change you want to apply to your weight
+  * Tensorflow and keras - from tensorflow.keras.models import Sequential; from tensorflow.keras.layers import Dense, Activation; from tensorflow.keras.optimizers import Adam
 - Big Data and Spark
   1. AWS account setup
   2. RDD transformation
