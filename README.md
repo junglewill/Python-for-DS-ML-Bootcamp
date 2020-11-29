@@ -28,7 +28,8 @@ Including:
     4. from sklearn.naive_bayes import MultinomialNB as the model. simply fit and predict. Noted that there're plenty other models you can choose from
     5. from sklearn.pipeline import Pipeline, this can collect all the previous steps into a list of tuples solution bags. A great way to summarize the methods you used. 
 - Deep Learning Algorithms:
-  1. tensorflow (keras) 
+  1. Perceptron Model to neural networks: if a model is with 2 or more hidden layers, it's called deep neural networks
+  2. Activation functions (Sigmoid, tanh, Rectified Linear Unit, ReLU)
 - Big Data and Spark
   1. AWS account setup
   2. RDD transformation
