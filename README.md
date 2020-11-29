@@ -30,7 +30,9 @@ Including:
 - Deep Learning Algorithms:
   1. Perceptron Model to neural networks: if a model is with 2 or more hidden layers, it's called deep neural networks
   2. Activation functions (Sigmoid, tanh, Rectified Linear Unit, ReLU)
-  3. Multi-Class classification considerations
+  3. Multi-Class classification considerations: One Hot Encoding, Sigmoid for non-exclusive classification, which means a data could be labelled as multiple labels; Softmax function for mutual exclusive classification
+  4. Cost Functions
+  5. Gradient Descent
 - Big Data and Spark
   1. AWS account setup
   2. RDD transformation
