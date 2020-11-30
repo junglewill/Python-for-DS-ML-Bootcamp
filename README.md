@@ -33,7 +33,8 @@ Including:
   3. Multi-Class classification considerations: One Hot Encoding, Sigmoid for non-exclusive classification, which means a data could be labelled as multiple labels; Softmax function for mutual exclusive classification
   4. Cost Functions & Gradient Descent: many cost function to choose from, you want to find the lowest cost point for all possible values, usually adaptive gradient descent (adam) would be a good optimizer or that
   5. Backpropagation: find the percentage change you want to apply to your weight
-  * Tensorflow and keras - ```from tensorflow.keras.models import Sequential ```; ```from tensorflow.keras.layers import Dense, Activation ```; ```from tensorflow.keras.optimizers import Adam ```
+  * Tensorflow and keras - ```from tensorflow.keras.models import Sequential ```; ```from tensorflow.keras.layers import Dense, Activation, Dropout ```, Dropout is to prevent overfitting; ```from tensorflow.keras.optimizers import Adam ```; ```from tensorflow.keras.callbacks import EarlyStopping ```
+  * Tensorboard
 - Big Data and Spark
   1. AWS account setup
   2. RDD transformation
