@@ -36,5 +36,5 @@ Including:
   * Tensorflow and keras - ```from tensorflow.keras.models import Sequential```; ```from tensorflow.keras.layers import Dense, Activation, Dropout```, Dropout is to prevent overfitting; ```from tensorflow.keras.optimizers import Adam```; ```from tensorflow.keras.callbacks import EarlyStopping```, EarlyStopping takes in (monitor='val_loss', mode='min', verbose=1, patience=25) to choose the stopping point to prevent from overfitting.
   * Tensorboard
 - Big Data and Spark
-  1. AWS account setup
-  2. RDD transformation
+  1. AWS account setup and Pyspark installment
+  2. RDD transformations and actions code along
